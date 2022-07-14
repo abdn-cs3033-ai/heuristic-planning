@@ -78,7 +78,7 @@ The criteria, as well as their weight in the final grade is as follows:
 - Code readability (10%).
 
 ## Python Instructions
-In LAPRO you can just run (for Linux):
+In a preconfigured computer you can just run (in Linux):
 ```shell
 jupyter notebook
 ```
@@ -96,11 +96,11 @@ python -m ipykernel install --name py36_heu --user
 
 ## Important Information
 
-**Corrections:** From time to time, students or staff find errors (e.g., typos, unclear instructions, etc.) in the assignment specification. In that case, a corrected version of this file will be produced, announced, and distributed for you to commit and push into your repository. Because of that, you are NOT to modify this file in any way to avoid conflicts.
+**Corrections:** From time to time, students, or staff find errors (e.g., typos, unclear instructions, etc.) in the assignment specification. In that case, a corrected version of this file will be produced, announced, and distributed for you to commit and push into your repository. Because of that, you are NOT to modify this file in any way to avoid conflicts.
 
-**Late submissions & extensions:** You have a 24 hour grace period with a penalty of 10% of the maximum mark, which increases to 50% until 48 hours after the due date, and 100% penalty thereafter. Extensions will only be permitted in _exceptional_ circumstances. 
+**Late submissions & extensions:** You have a 24-hour grace period with a penalty of 10% of the maximum mark, which increases to 50% until 48 hours after the due date, and 100% penalty thereafter. Extensions will only be permitted in _exceptional_ circumstances.
 
-**About this repo:** You must ALWAYS keep your fork private and never share it with anybody in or outside the course, even after the course is completed. You are not allowed to make another repository copy outside the provided GitHub Classroom without the written permission of the teaching staff.
+**About this repo:** You must ALWAYS keep your fork private and never share it with anybody in or outside the course, even after the course finishes. You are not allowed to make another repository copy outside the provided GitHub Classroom without the written permission of the teaching staff.
 
 > **_Please do not distribute or post solutions to any of the projects and notebooks._**
 
