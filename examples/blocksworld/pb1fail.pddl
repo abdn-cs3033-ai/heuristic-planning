@@ -1,0 +1,5 @@
+(define (problem pb1fail)
+  (:domain blocksworld)
+  (:objects a b)
+  (:init (onTable a) (onTable b) (clear b) (equal a a) (equal b b) (handempty))
+  (:goal (on a b)))

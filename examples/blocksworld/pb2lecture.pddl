@@ -1,0 +1,8 @@
+(define (problem pb2lecture)
+  (:domain blocksworld)
+  (:objects a b c d)
+  (:init (onTable d) (onTable c) (on b d) (clear b) (clear c)
+    (holding a)
+    (equal a a) (equal b b) (equal c c) (equal d d)
+    )
+  (:goal (and (on a b) (on b c) (onTable c))))
