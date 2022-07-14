@@ -1,32 +1,3 @@
-# Automated Planning - Assignment 2: Planning using Heuristic Search
-
-**Felipe Meneguzzi**  
-**Mauricio Magnaguagno (PhD Student)**  
-**Leonardo Rosa Amado (PhD Student)**  
-**Gabriel Paludo Licks (MSc Student)**
-
-AI Planning (1982D-02):
-- Assigned: 15 May
-- Due: 16 June
-
-## Assignment Overview
-
-<img align="right" src="planning-assignment.svg"/>
-
-The goal of this work is to implement the core functions of an automated planner and benchmark a number of heuristics. You will implement three main functions in this assignment:
-- Implement a number of heuristic functions
-    - **Max-Cost** ($h^{max}$)
-    - **Additive Cost** ($h^{add}$)
-    - **Relaxed Plan** ($h^{FF}$)
-    - **Critical Path** ($h^{m}$) *(Optional)*
-    - **Optimal Delete Relaxation** ($h^{+}$) *(Optional)*
-    -  **Landmark Heuristics** ($h^{LM}$ and $h^{LM-Cut}$) *(Optional)*
-    <!-- - **Operator Counting Heuristics** ($h^{OC}$) *(Optional)* -->
-    - Implement a function capable of validating a plan given a domain and a problem.
-    - Finally, implement the heuristic search **A\***
-
-**Choose which course you are using this for.**
-
 # Programming Assignment: Planning using Heuristic Search  <img align="right" src="UoA Vertical.svg"/>
 
 **Prof. Felipe Meneguzzi**  
@@ -45,36 +16,6 @@ The goal of this work is to implement the core functions of an automated planner
 - Implement the **Max-Cost** heuristic function.
 - Implement a function capable of validating a plan given a domain and a problem.
 - Finally, implement the heuristic search **A\***
-
-**End of Choice 1**
-
-# AI for CS - Assignment 1: Planning using Heuristic Search
-**Base code for the heuristic planning assignment**
-
-**Felipe Meneguzzi**  
-**Mauricio Magnaguagno (PhD Student)**  
-**Leonardo Rosa Amado (PhD Student)**
-
-Computer Science (4646A-4):
-- Assigned: 06 April
-- Due: 05 May
-
-Computer Engineering (4621A-4):
-- Assigned: 06 April
-- Due: 05 May
-
-**REMINDER: Do not under any circumstances rename the files you get from this repo. Your assignment must be in a notebook called ```AIT1-Jupyternotebook.ipynb```** 
-
-## Assignment Overview
-
-<img align="right" style="margin:20px" src="planning-assignment.svg"/>
-
-The goal of this work is to implement the core functions of an automated planner. You will implement three main functions in this assignment:
-- Implement the **Max-Cost** heuristic function.
-- Implement a function capable of validating a plan given a domain and a problem.
-- Finally, implement the heuristic search **A\***
-
-**End Choice 2**
 
 After implementing the required functions, you must write a 2-page paper. The entire package must be delivered using GitHub, where your implemented functions must be contained in this Jupyter Notebook, and the paper as a separate **pdf** file committed in the same Github repository in the ```paper``` folder.
 
