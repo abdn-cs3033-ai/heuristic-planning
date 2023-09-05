@@ -62,4 +62,14 @@ class PDDLPlanner:
         return ground_actions
 
     def solve(self, domain, initial_state, goals):
+        """Solves a planning problem defined by 'actions', 'state', and 'goal', returning the plan if one exists or none otherwise.
+
+        Args:
+            actions (list[Action]): A list of grounded actions for the problem to be solved, this is the action space.
+            state (frozenset[tuple]): A set of grounded predicates defining the initial state of the problem
+            goals (tuple[frozenset[tuple],frozenset[tuple]]): a tuple with two sets of tuples representing positive and negative goals
+
+        Returns:
+            list[Action]: A plan comprising a (possibly empty) list of actions from 'actions', that transform the initial 'state' into one that is a model of 'goals'.
+        """
         raise NotImplementedError("PDDL Planners need to implement solve")
