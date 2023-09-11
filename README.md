@@ -7,8 +7,11 @@ Artificial Intelligence (CS3033/QC3001):
 - Assigned: Week 12
 - Due: Week 18 (Monday 9am)
 
-**REMINDER: Do not under any circumstances rename the files you get from this repo. Your assignment must be in a notebook called ```AI-Jupyternotebook.ipynb```**  
-**REMINDER2: Your implementation must not rely on any additional libraries (i.e., it must work with the standard Python 3.6 distribution)**  
+**REMINDERS:**  
+
+1. Do not under any circumstances rename the files you get from this repo. Your assignment must be in a notebook called ```AI-Jupyternotebook.ipynb```;
+2. Your implementation must not rely on any additional libraries (i.e., it must work with the standard Python 3.6 distribution);
+3. Do not use any **generative AI models** (e.g., Co-Pilot, ChatGPT, etc) to write any portion of your code, as this constitutes plagiarism.
 
 ## Assignment Overview
 
