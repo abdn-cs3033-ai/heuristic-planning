@@ -2,11 +2,13 @@
 
 **Prof. Felipe Meneguzzi**  
 
-Artificial Intelligence (CS3033):
-- Assigned: Week 12
-- Due: Week 18 (Friday 7pm)
+Artificial Intelligence (CS3033/QC3001):
 
-**REMINDER: Do not under any circumstances rename the files you get from this repo. Your assignment must be in a notebook called ```AI-Jupyternotebook.ipynb```** 
+- Assigned: Week 12
+- Due: Week 18 (Monday 9am)
+
+**REMINDER: Do not under any circumstances rename the files you get from this repo. Your assignment must be in a notebook called ```AI-Jupyternotebook.ipynb```**  
+**REMINDER2: Your implementation must not rely on any additional libraries (i.e., it must work with the standard Python 3.6 distribution)**  
 
 ## Assignment Overview
 
